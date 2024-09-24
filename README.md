@@ -11,4 +11,5 @@ Applikationen använder maskininlärning för att avgöra om recensioner och omd
 * Användande av tränad ML-modell
 
 Arbetet ingår i en grundläggande programmering i C# på MittUniversitetet.
+
 Skrivet av Markus Vickman 2024-09-24
